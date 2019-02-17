@@ -6,4 +6,7 @@ public class Test1 {
         System.out.println("547");
         System.out.println("547");
     }
+    public void test1(){
+        System.out.println("56");
+    }
 }
