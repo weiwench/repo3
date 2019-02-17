@@ -5,8 +5,9 @@ public class Test1 {
         System.out.println("547");
         System.out.println("547");
         System.out.println("547");
+        test11();
     }
-    public void test1(){
+    public static void test11(){
         System.out.println("56");
     }
 }
