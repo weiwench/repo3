@@ -10,5 +10,7 @@ public class Test1 {
     public static void test11(){
         System.out.println("56");
         System.out.println("68");
+        System.out.println("321");
+
     }
 }
